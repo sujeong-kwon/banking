@@ -1,0 +1,72 @@
+2022-07-18 09:30:45,907 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-18 16:30:34,067 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-18 16:42:35,364 [Worker-38: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ncs\banking\banking\pom.xml
+2022-07-18 16:42:36,407 [Worker-38: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.varxyz:banking:0.0.1-SNAPSHOT @ C:\ncs\banking\banking\pom.xml.
+2022-07-18 16:42:37,053 [Worker-38: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /banking/src/main/java
+2022-07-18 16:42:37,054 [Worker-38: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /banking/src/test/java
+2022-07-18 16:42:38,013 [Worker-38: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-07-18 16:42:38,435 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:42:38,435 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:42:38,437 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:42:38,437 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:42:38,703 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:42:38,703 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:42:38,704 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:42:38,704 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:42:39,808 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:42:39,808 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:42:39,809 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:42:39,809 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:42:40,997 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:42:40,997 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:42:40,998 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:42:40,998 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:45:26,418 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:45:26,418 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:45:26,419 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:45:26,419 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:45:43,202 [Worker-41: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:45:43,202 [Worker-41: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:45:43,203 [Worker-41: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:45:43,203 [Worker-41: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:48:53,914 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.varxyz:banking:0.0.1-SNAPSHOT @ C:\ncs\banking\banking\pom.xml.
+2022-07-18 16:48:54,430 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:48:54,431 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:48:54,432 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:48:54,432 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:50:42,338 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.varxyz:banking:0.0.1-SNAPSHOT @ C:\ncs\banking\banking\pom.xml.
+2022-07-18 16:50:42,613 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:50:42,613 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:50:42,614 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:50:42,614 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:50:42,615 [Worker-56: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of banking
+2022-07-18 16:50:42,615 [Worker-56: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for banking
+2022-07-18 16:50:42,618 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:50:43,770 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:50:43,770 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:50:43,771 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:50:43,771 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:51:33,055 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-07-18 16:51:33,146 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.varxyz:banking:0.0.1-SNAPSHOT @ C:\ncs\banking\banking\pom.xml.
+2022-07-18 16:51:33,495 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /banking/src/main/java
+2022-07-18 16:51:33,500 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /banking/src/test/java
+2022-07-18 16:51:33,644 [Worker-47: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for banking
+2022-07-18 16:51:33,648 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-07-18 16:51:34,251 [Worker-54: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:51:34,251 [Worker-54: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:51:34,252 [Worker-54: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:51:34,252 [Worker-54: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 16:51:34,252 [Worker-54: Building Project banking] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of banking
+2022-07-18 16:51:34,252 [Worker-54: Building Project banking] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for banking
+2022-07-18 16:51:34,253 [Worker-54: Building Project banking] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:52:32,250 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:52:32,251 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 16:52:32,252 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:52:32,252 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 17:04:15,098 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 17:04:15,099 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
+2022-07-18 17:04:15,099 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 17:04:15,099 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\test\resources
+2022-07-18 17:05:52,157 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-18 17:05:54,663 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 17:05:54,665 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ncs\banking\banking\src\main\resources
