@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.varxyz.banking.db.DataSourceManager"/>
     <fullyQualifiedTypeName name="com.varxyz.banking.exception.OverdraftException"/>
+    <fullyQualifiedTypeName name="com.varxyz.banking.account.domain.Account"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Login</title>
+</head>
+<body>
+	<div class="container">
+		<a class="logo">
+			<img src="">
+		</a>
+		<div class="inner">
+			<div class="title">
+				<h1>
+					<span>Login</span>
+				</h1>
+				<p>
+					Don't have an account yet?
+					<a href="/signup">Signup here</a>
+				</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
